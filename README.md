@@ -1,8 +1,9 @@
 # TicTocToeGame
 TicTocToe Using Java programming and TDD Approach
 Steps to run the program:
-1. Extract the file and open the coomand prompt and navigate to the folder where TicTacApp.java resides and 
-2. Run the Java Application using CommandLine as below :-
+1. Downlaod the Code from https://github.com/JAVADEV7585/TicTocToeGame.git
+2. Extract the file and open the command prompt and navigate to the folder where TicTacApp.java resides and 
+3. Please ensure AdoptJDK is installed and Java Path is set and Run the Java Application using CommandLine as below :-
  javac TicTacApp.java
  java TicTacApp 3
  
